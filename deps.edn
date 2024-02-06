@@ -1,0 +1,2 @@
+{:paths ["src"]
+ :deps {org.clj-commons/digest {:mvn/version "1.4.100"}}}
